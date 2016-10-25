@@ -8,6 +8,33 @@
 html,
 body {
 	margin: 0;
+	font-family: Arial, monospace;
+}
+
+header {
+	background-color: dodgerblue;
+}
+
+h1 {
+	margin-left: 20%;
+	font-size: 24px;
+}
+
+.pull-left {
+	float: left;
+	border: 3px solid grey;
+	margin: 15px;
+}
+
+.instructions {
+	border: 3px solid grey;
+	margin: 15px 15%;
+	padding: 10px;
+	font-size: 12px;
+}
+
+.instructions ol {
+
 }
 
 .container {

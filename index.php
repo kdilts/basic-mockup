@@ -6,12 +6,12 @@
 		<title>Basic CSS Exercise</title>
 	</head>
 	<body class="sfooter">
+		<header>
+			<div class="container">
+				<h1>Dylan's Profe$$ional Web Page</h1>
+			</div>
+		</header>
 		<div class="sfooter-content">
-			<header>
-				<div class="container">
-					<h1>Dylan's Profe$$ional Web Page</h1>
-				</div>
-			</header>
 			<main>
 				<div class="container">
 					<div class="instructions">
