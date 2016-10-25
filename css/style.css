@@ -36,6 +36,12 @@ footer p {
 	margin: 15px;
 }
 
+.pull-right {
+	float: right;
+	border: 3px solid grey;
+	margin: 15px;
+}
+
 .instructions {
 	border: 3px solid grey;
 	margin: 15px 15%;
@@ -43,8 +49,8 @@ footer p {
 	font-size: 12px;
 }
 
-.instructions ol {
-
+.bodyColumn {
+	margin: 0 15%;
 }
 
 .container {
@@ -54,6 +60,7 @@ footer p {
 
 .clear {
 	clear: both;
+	background-color: aqua;
 }
 
 /***
