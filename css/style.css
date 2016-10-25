@@ -38,7 +38,7 @@ footer p {
 
 .pull-right {
 	float: right;
-	border: 3px solid grey;
+	border: 3px solid white;
 	margin: 15px;
 }
 
@@ -60,7 +60,9 @@ footer p {
 
 .clear {
 	clear: both;
-	background-color: aqua;
+	background-color: dodgerblue;
+	margin: 20px auto;
+	padding: 10px 10px 0 10px;
 }
 
 /***
